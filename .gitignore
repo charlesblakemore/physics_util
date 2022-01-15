@@ -1,0 +1,11 @@
+.*
+*.pyc
+*.npy
+*.p
+*.log
+*~
+lib/physics_util.egg-info
+
+processed.pkl
+!/.gitignore
+#*
